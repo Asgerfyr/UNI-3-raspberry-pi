@@ -1,0 +1,25 @@
+# CMake build directories and generated files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+a.out
+exe
+
+# Common caches and temporary files
+.cache/
+__pycache__/
+*.py[cod]
+*.swp
