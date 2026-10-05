@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/au798909/lectures/sys/l10/2_2/build/src",
+  "command": "/usr/bin/c++  -I/home/au798909/lectures/sys/l10/2_2/inc -std=gnu++23 -o CMakeFiles/main.out.dir/main.cpp.o -c /home/au798909/lectures/sys/l10/2_2/src/main.cpp",
+  "file": "/home/au798909/lectures/sys/l10/2_2/src/main.cpp",
+  "output": "src/CMakeFiles/main.out.dir/main.cpp.o"
+}
+]

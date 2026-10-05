@@ -1,0 +1,3 @@
+/home/au798909/lectures/l5/fuck/CMakeFiles/main.out.dir
+/home/au798909/lectures/l5/fuck/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/l5/fuck/CMakeFiles/rebuild_cache.dir

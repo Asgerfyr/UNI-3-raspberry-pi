@@ -1,0 +1,3 @@
+/home/au798909/lectures/l7/cpu_b_p/CMakeFiles/main.out.dir
+/home/au798909/lectures/l7/cpu_b_p/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/l7/cpu_b_p/CMakeFiles/rebuild_cache.dir

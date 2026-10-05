@@ -1,0 +1,5 @@
+/home/au798909/lectures/sys/l10/3/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/sys/l10/3/CMakeFiles/rebuild_cache.dir
+/home/au798909/lectures/sys/l10/3/src/CMakeFiles/main.out.dir
+/home/au798909/lectures/sys/l10/3/src/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/sys/l10/3/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/home/au798909/lectures/l4/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/l4/CMakeFiles/rebuild_cache.dir
+/home/au798909/lectures/l4/src/CMakeFiles/hello.out.dir
+/home/au798909/lectures/l4/src/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/l4/src/CMakeFiles/rebuild_cache.dir

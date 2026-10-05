@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/hello.out.dir/link.d CMakeFiles/hello.out.dir/main.cpp.o CMakeFiles/hello.out.dir/display.cpp.o CMakeFiles/hello.out.dir/matrix.cpp.o CMakeFiles/hello.out.dir/point.cpp.o -o ../build/bin/hello.out

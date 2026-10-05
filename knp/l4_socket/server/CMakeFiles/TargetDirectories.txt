@@ -1,0 +1,3 @@
+/home/au798909/lectures/net/l4_socket/server/CMakeFiles/server.out.dir
+/home/au798909/lectures/net/l4_socket/server/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/net/l4_socket/server/CMakeFiles/rebuild_cache.dir

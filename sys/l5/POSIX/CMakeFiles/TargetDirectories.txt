@@ -1,0 +1,3 @@
+/home/au798909/lectures/l5/POSIX/CMakeFiles/main.out.dir
+/home/au798909/lectures/l5/POSIX/CMakeFiles/edit_cache.dir
+/home/au798909/lectures/l5/POSIX/CMakeFiles/rebuild_cache.dir
